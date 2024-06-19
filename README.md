@@ -10,10 +10,19 @@ Property Manager App is a mobile application built with React Native to manage p
 - **Custom Input Fields:** Customizable input fields for various types of property data.
 - **Collapsible Sections:** Utilizes Collapsible components for organizing and displaying property data sections.
 - **Save Button:** Enable/disable save button based on the completion of required fields.
+- **Custom TabBar:** The BuildingsTab component allows users to dynamically add tabs (representing buildings) and switch between them using a top tab navigation interface.
 
 ## Screenshots
 
-Include screenshots or GIFs of your app here to give readers a visual preview.
+<img src="https://github.com/Riser17/PropertyManager/assets/91198103/0754c084-47f3-4585-9c79-6bdc67c55e3c" width="300" height="500">
+<img src="https://github.com/Riser17/PropertyManager/assets/91198103/afc6c311-a9c1-464f-bbd6-fce22a2b5ef9" width="300" height="500">
+<img src="https://github.com/Riser17/PropertyManager/assets/91198103/8ab6318e-7a85-45a7-89dd-ead59e3bb607" width="300" height="500">
+
+## Recorded Preview
+
+1. **Check drive link:**
+https://drive.google.com/file/d/1V9h-ZIYTBuhX3d3MW6QTXSJg0T7bmXEQ/view?usp=sharing
+
 
 ## Installation
 
@@ -28,7 +37,7 @@ Include screenshots or GIFs of your app here to give readers a visual preview.
    ```bash
    npm install
    ```
-   
+
 3. **Run the application:
 
    ```bash
