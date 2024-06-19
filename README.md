@@ -5,6 +5,7 @@ Property Manager App is a mobile application built with React Native to manage p
 ## Features
 
 - **Offline Data Storage:** Store property data locally on the device using AsyncStorage.
+- **Categories List** Utilizes the MasonryFlashList component to display categories in a Masonry layout.
 - **Sync Functionality:** Automatically sync data with the server when the app detects an internet connection.
 - **UI Components:** Utilizes React Native UI components for a responsive and user-friendly interface.
 - **Custom Input Fields:** Customizable input fields for various types of property data.
