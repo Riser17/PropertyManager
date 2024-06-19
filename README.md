@@ -45,4 +45,4 @@ https://drive.google.com/file/d/1V9h-ZIYTBuhX3d3MW6QTXSJg0T7bmXEQ/view?usp=shari
    npx react-native run-android
    # or
    npx react-native run-ios
-```
+   ```
