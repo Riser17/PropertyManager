@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "eventName": "Art Show",
+      "hostName": "Olivia Adams",
+      "location": "Downtown Art Gallery",
+      "ticketsLeft": 50,
+      "priceRange": "$20 - $50",
+      "about": "A grand exhibition showcasing contemporary art from various local artists."
+    },
+    {
+      "id": 2,
+      "eventName": "Music Concert",
+      "hostName": "Bob Smith",
+      "location": "City Park Amphitheater",
+      "ticketsLeft": 200,
+      "priceRange": "$30 - $100",
+      "about": "An exciting evening with live performances from top bands and solo artists."
+    },
+    {
+      "id": 3,
+      "eventName": "Food Festival",
+      "hostName": "Charlie Brown",
+      "location": "Central Market Square",
+      "ticketsLeft": 300,
+      "priceRange": "$10 - $40",
+      "about": "A delicious event featuring food stalls and trucks from the best local eateries."
+    },
+    {
+      "id": 4,
+      "eventName": "Tech Conference",
+      "hostName": "Diana Ross",
+      "location": "Convention Center",
+      "ticketsLeft": 100,
+      "priceRange": "$50 - $200",
+      "about": "A conference where industry leaders discuss the latest in technology and innovation."
+    },
+    {
+      "id": 5,
+      "eventName": "Charity Run",
+      "hostName": "Edward King",
+      "location": "Riverside Park",
+      "ticketsLeft": 150,
+      "priceRange": "$15 - $60",
+      "about": "Join us for a 5K run to raise funds for local charities and non-profit organizations."
+    }
+  ]
+  
