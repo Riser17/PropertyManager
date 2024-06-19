@@ -33,13 +33,13 @@ https://drive.google.com/file/d/1V9h-ZIYTBuhX3d3MW6QTXSJg0T7bmXEQ/view?usp=shari
    git clone https://github.com/Riser17/PropertyManager.git
    cd property-manager-app
    ```
-2. **Install dependencies:
+2. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-3. **Run the application:
+3. **Run the application:**
 
    ```bash
    npx react-native run-android
